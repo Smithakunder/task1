@@ -6,11 +6,11 @@ const languages = [
       code: "en",
     },
     {
-      no: "1",
-      name: "Afrikaans",
-      native: "Afrikaans",
-      code: "af",
-    },
+        no: "1",
+        name: "Hindi",
+        native: "हिन्दी",
+        code: "hi",
+      },
     {
       no: "2",
       name: "Albanian",
